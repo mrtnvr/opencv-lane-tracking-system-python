@@ -149,7 +149,7 @@ def process(image):
    
 
 
-cap = cv2.VideoCapture("assaw.mp4")
+cap = cv2.VideoCapture("Test_Video.mp4")
 
 while cap.isOpened():
     ret, frame = cap.read()

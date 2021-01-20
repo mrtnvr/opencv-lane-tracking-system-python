@@ -7,7 +7,7 @@ in line 152
 cap = cv2.VideoCapture("Test_Video.mp4") #for webcam or something like that use cv2.VideoCapture(0)
 ```
 
-![Alt Text](https://media.giphy.com/media/8S1eV0mgvjoD2dXlUQ/giphy.gif)
+![GIF](https://media.giphy.com/media/xtz71NBAOpOCfXEvjN/giphy.gif)
 
 Result of the Test video:
 
